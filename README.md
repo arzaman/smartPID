@@ -18,3 +18,18 @@ SmartPID Controller is a must device for Do-It- Yourself Enthusiasts, Software g
 From homebrewing or wine making to aquarium or refolow oven temperature control SmartPID can add precision, power, flexibility programmability
 
 In one word make your temperature process control SMART
+
+All applications benefit from a full set of common features that are the baseline to developing smart applications.
+
+![smartpid feature](https://github.com/arzaman/smartPID/blob/master/Picture/img-features.png)
+
+SmartPID is a masterpiece of engineering. We have done our best to incorporate a ton of advanced features into a single compact box. Below you will find a table with all technical characteristic
+
+![smartpid technical](https://github.com/arzaman/smartPID/blob/master/Picture/specs.jpg)
+
+SmartPID is powered by SAMD21 32-bit ARM® Cortex®-M0+ by Atmel
+
+![smartpid circuit board](https://github.com/arzaman/smartPID/blob/master/Picture/circuit-board.png)
+
+
+
