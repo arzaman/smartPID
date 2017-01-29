@@ -1,4 +1,6 @@
 # smartPID
+
+![smartpid header](https://github.com/arzaman/smartPID/blob/master/Picture/header.jpg)
 Professionally engineered, SmartPID Controller is a high-tech product that facilitates temperature and process control: heating or cooling. 
 Compared to your basic on/off thermostat, SmartPID is a piece of futuristic wonder.  
 
