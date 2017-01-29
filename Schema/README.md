@@ -13,4 +13,7 @@ it connects the 3 PCBs and contains all the linear swtiching 220AC/12VDC power s
 Rear Board
 provides the I/O lines via terminal blocks and contains all the power driver and protection electronic
 
+![smartpid HW](https://github.com/arzaman/smartPID/blob/master/Picture/smartPID%20HW.jpg)
+
+![smartpid assembling](https://github.com/arzaman/smartPID/blob/master/Picture/smartPID%20assembling.jpg)
 
