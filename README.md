@@ -85,10 +85,13 @@ SmartPID pushes log data to a remote server so that the mobile app can retrieve 
 
 The smart app allows you to do the following:  
 
-Login and authenticate user login on the server in order to access it in a secure way  
-Display and visualize data via a dashboard so that the user can select a specific controller and data (filtered by date/time) and display the data in a graphic or tabular way  
-Configure the device (this part is still under development)
-You can configure all the unit parameters (HW set up, process parameter) via a web interface or mobile app and upload your configuration options on the device. Configuration options can then be stored on the server and used at any time. 
+-Login and authenticate user login on the server in order to access it in a secure way  
+
+-Display and visualize data via a dashboard so that the user can select a specific controller and data (filtered by date/time) and display the data in a graphic or tabular way 
+ 
+-Configure the device (this part is still under development)
+
+-You can configure all the unit parameters (HW set up, process parameter) via a web interface or mobile app and upload your configuration options on the device. Configuration options can then be stored on the server and used at any time. 
 
 You can also set a temperature threshold and get notifications by local alarm, email, or Twitter.
 
