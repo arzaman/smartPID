@@ -2,16 +2,13 @@
 
 this folder contains 
 
-Board Definition
-the information package to install the board under the arduino IDE
+Board Definition. the information package to install the board under the arduino IDE
 
 open your Arduino preferences (File > Preferences). Then find the Additional Board Manager URLs text box, and paste the below link 
 
 https://github.com/arzaman/smartPID/blob/master/Driver/SPC1000/package_arzaman_index.json
 
 Then hit “OK”, and travel back to the Board Manager menu. You should (but probably won’t) be able to find a new entry for SPC1000 board. If you don’t see it, close the board manager and open it again.
-
-
 
 USB serial driver
 
