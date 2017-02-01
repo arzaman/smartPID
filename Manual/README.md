@@ -14,8 +14,7 @@ Arduino IDE connection and programming,
 FW upgrade and reset to factory
 
 Application manual
-provide instruction for the application usage and configuration
-Smart home-brewing app
-Smart thermostat
+provide instruction for the application usage and configuration:
+Smart home-brewing app and Smart thermostat
 
 

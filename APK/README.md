@@ -1,0 +1,10 @@
+# APK
+
+this folder contains the the android application pakage 
+
+download on your smartphone and please make sure that
+Your android version is 5 or greater
+You activate USB debug mode under development option menu
+You accept during the installation APK from “unknown source”
+
+
