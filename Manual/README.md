@@ -8,11 +8,14 @@ very short introduction and basic operation
 Installation and configuration manual
 provide all instruction to
 
-
 install and connect smartPID to your ecosystem
+
 hw configuration
+
 wifi setup and data logging via thingspeak service
+
 Arduino IDE connection and programming
+
 FW upgrade and reset to factory
 
 Application manual
