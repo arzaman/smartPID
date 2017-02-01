@@ -1,4 +1,4 @@
-# APK
+# TEST APP code
 
 this folder contains the source code for a test application that allow you to perform test of all HW components
 
