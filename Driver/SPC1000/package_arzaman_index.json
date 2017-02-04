@@ -13,7 +13,7 @@
                "category":"Contributed",
                "url":"https://raw.githubusercontent.com/arzaman/smartPID/master/Driver/SPC1000/arzaman-samd-1.0.0.tar.bz2",
                "archiveFileName":"arzaman-samd-1.0.0.tar.bz2",
-               "checksum":"SHA-256:49a3ca488f4527d5aea89104035972b0e75730acd9d037e67b27c0c817125b09",
+               "checksum":"SHA-256:DD3EFD6E17102037F2EC7DAE56B8C967EA4434B1A6F5A150FFAEB974852D3EE2",
                "size":"77486",
                "boards":[
                   { "name":"SmartPID SPC1000" }
