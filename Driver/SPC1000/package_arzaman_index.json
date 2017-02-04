@@ -3,11 +3,11 @@
       {
          "name":"Arzaman",
          "maintainer":"Arzaman",
-         "websiteURL":"https://www.arzaman.com",
+         "websiteURL":"https://www.smartpid.com",
          "email":"smartpid@arzaman.com",
          "platforms":[
             {
-               "name":"Arzaman SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+               "name":"Arzaman SmartPID SPC1000 (dependency: Arduino SAMD Boards 1.6.5)",
                "architecture":"samd",
                "version":"1.0.0",
                "category":"Contributed",
@@ -16,7 +16,7 @@
                "checksum":"SHA-256:DD3EFD6E17102037F2EC7DAE56B8C967EA4434B1A6F5A150FFAEB974852D3EE2",
                "size":"77486",
                "boards":[
-                  { "name":"Arzaman AB1000" }
+                  { "name":"SmartPID SPC1000" }
                ],
                "toolsDependencies":[
                ]
