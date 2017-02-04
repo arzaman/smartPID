@@ -12,7 +12,7 @@
                "version":"1.0.0",
                "category":"Contributed",
                "url":"https://github.com/arzaman/smartPID/blob/master/Driver/SPC1000/arzaman-samd-1.0.0.tar.bz2",
-               "archiveFileName":"arzaman-samd-1.0.0.tar.bz2",
+               "archiveFileName":"https://github.com/arzaman/smartPID/blob/master/Driver/SPC1000/arzaman-samd-1.0.0.tar.bz2",
                "checksum":"SHA-256:DD3EFD6E17102037F2EC7DAE56B8C967EA4434B1A6F5A150FFAEB974852D3EE2",
                "size":"77486",
                "boards":[
