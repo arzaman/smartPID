@@ -11,7 +11,7 @@
                "architecture":"samd",
                "version":"1.0.1",
                "category":"Contributed",
-               "url":"file://C:/Users/Francesco/Documents/Arzaman/arzaman-samd-1.0.1.tar.bz2",
+               "url":"https://raw.githubusercontent.com/arzaman/smartPID/master/Driver/SPC1000/arzaman-samd-1.0.1.tar.bz2",
                "archiveFileName":"arzaman-samd-1.0.1.tar.bz2",
                "checksum":"SHA-256:011d7679060cd669789b5955addb1ab77514cc744588081b1c6e55f2bb8a2b69",
                "size":"69246",
