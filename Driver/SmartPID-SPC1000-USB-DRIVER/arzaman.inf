@@ -1,0 +1,54 @@
+[Strings]
+DriverPackageDisplayName="Arzaman USB Driver"
+ManufacturerName="Arzaman (http://www.arzaman.com)"
+ServiceName="USB RS-232 Emulation Driver"
+spc1000.sketch.name="smartPID SPC1000"
+
+[DefaultInstall]
+CopyINF=arzaman.inf
+
+[Version]
+Class=Ports
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+Signature="$Windows NT$"
+Provider=%ManufacturerName%
+DriverPackageDisplayName=%DriverPackageDisplayName%
+DriverVer=06/15/2015,1.2.2.0
+
+[Manufacturer]
+%ManufacturerName%=DeviceList, NTamd64, NTia64
+
+[DestinationDirs]
+FakeModemCopyFileSection=12
+DefaultDestDir=12
+
+[DeviceList]
+%spc1000.sketch.name%=DriverInstall, USB\VID_1209&PID_4646&MI_00
+
+[DeviceList.NTamd64]
+%spc1000.sketch.name%=DriverInstall, USB\VID_1209&PID_4646&MI_00
+
+[DeviceList.NTia64]
+%spc1000.sketch.name%=DriverInstall, USB\VID_1209&PID_4646&MI_00
+
+[DriverInstall]
+include=mdmcpq.inf,usb.inf
+CopyFiles = FakeModemCopyFileSection
+AddReg=DriverAddReg
+
+[DriverAddReg]
+HKR,,DevLoader,,*ntkern 
+HKR,,NTMPDriver,,usbser.sys 
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.Services]
+include=mdmcpq.inf
+AddService=usbser, 0x00000002, DriverService
+
+[DriverService]
+DisplayName=%ServiceName%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+LoadOrderGroup=Base
