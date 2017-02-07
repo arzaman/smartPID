@@ -1,4 +1,4 @@
-# schematic
+# HW (schematic and pcb)
 
 this folder contains the SmartPID electric schema and PCB
 
