@@ -5,6 +5,9 @@ this folder contains the source code for a test application that allow you to pe
 the code is complied with arduino IDE 1.6.13 and SAMD core 32 BIT ARM Cortex M0+ version 1.6.11
 notice that the binary code produced should be loaded with the smartPID MSD bootloader and is not compatible witn SAM-BA bootloader
 
+it's needed to instal smarPID board definitio, please see "driver" section
+
+Test area:
 
 MCU test 
 
